@@ -1,14 +1,11 @@
 <div align="center">
 
 <!-- Animated Typing Header -->
-<!-- 如果下面的动画无法显示，取消注释其他备用源 -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+jengzang;HITSZ+Student+%7C+Full+Stack+Developer;Dialect+Enthusiast;Always+learning+new+things!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+jengzang;Full+Stack+Developer;HITSZ+Student;Always+learning!" alt="Typing SVG" />
 
-<!-- 备用源 1: 使用 herokuapp -->
-<!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+jengzang;HITSZ+Student+%7C+Full+Stack+Developer;Dialect+Enthusiast;Always+learning+new+things!" alt="Typing SVG" /> -->
-
-<!-- 备用源 2: 简化版本 -->
-<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi+I'm+jengzang;Full+Stack+Developer" alt="Typing SVG" /> -->
+<!-- 如果上面的动画无法显示，会显示下面的静态文本 -->
+<h1>Hi 👋 I'm jengzang | 不羈</h1>
+<h3>🎓 HITSZ Student | 💻 Full Stack Developer | 🗣️ Dialect Enthusiast</h3>
 
 </div>
 
@@ -56,39 +53,30 @@
 
 ## 📊 GitHub Statistics
 
-<!-- 主要源 -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jengzang&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=86400"/>
-  <img height="180em" src="https://streak-stats.demolab.com/?user=jengzang&theme=radical&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=86400"/>
-</div>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jengzang&layout=compact&theme=radical&langs_count=8&cache_seconds=86400"/>
-  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=jengzang&theme=radical&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jengzang&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jengzang&layout=compact&theme=radical&langs_count=8&hide_border=true)
+
 </div>
 
 <!--
-备用源配置说明：
-如果上面的图片无法显示，取消注释下面对应的备用源
+以下组件暂时不可用，等服务恢复后可以取消注释：
 
-备用源 1 - 使用官方实例:
+Streak Stats (连续贡献统计):
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jengzang&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jengzang&theme=radical"/>
+  <img src="https://streak-stats.demolab.com/?user=jengzang&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </div>
 
-备用源 2 - 使用 git.io 短链接:
+Trophy (成就徽章):
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jengzang&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jengzang&theme=radical"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=jengzang&theme=radical&column=4&no-frame=true" alt="GitHub Trophy"/>
 </div>
 
-备用源 3 - 简化版本（更稳定）:
+备用 Streak Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jengzang&show_icons=true&theme=radical"/>
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jengzang&layout=compact&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jengzang&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </div>
 -->
 </div>
