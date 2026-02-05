@@ -88,6 +88,75 @@ Trophy (成就徽章):
 ### 📈 Weekly Coding Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.00%20million%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 249.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 61 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 10 Public Repositories 
+ > 
+> 🔑 3 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                82 commits          ██████░░░░░░░░░░░░░░░░░░░   24.55 % 
+🌆 Daytime                112 commits         ████████░░░░░░░░░░░░░░░░░   33.53 % 
+🌃 Evening                96 commits          ███████░░░░░░░░░░░░░░░░░░   28.74 % 
+🌙 Night                  44 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   42 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
+Tuesday                  70 commits          █████░░░░░░░░░░░░░░░░░░░░   20.96 % 
+Wednesday                28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+Thursday                 69 commits          █████░░░░░░░░░░░░░░░░░░░░   20.66 % 
+Friday                   42 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
+Saturday                 43 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
+Sunday                   40 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   8 repos             ███████████████░░░░░░░░░░   61.54 % 
+Vue                      2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Go                       1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+```
+
+
+
+
+ Last Updated on 05/02/2026 09:16:23 UTC
 <!--END_SECTION:waka-->
 
 <!--
