@@ -46,7 +46,7 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jengzang&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jengzang&theme=radical"/>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=jengzang&theme=radical"/>
 </div>
 
 <div align="center">
