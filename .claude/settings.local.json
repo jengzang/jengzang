@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git fetch:*)",
+      "Bash(gh api:*)",
+      "WebFetch(domain:github.com)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push)",
+      "WebFetch(domain:www.yzup.top)",
+      "WebFetch(domain:github-readme-stats.vercel.app)",
+      "WebFetch(domain:streak-stats.demolab.com)",
+      "WebFetch(domain:readme-typing-svg.demolab.com)",
+      "WebFetch(domain:github-readme-stats-sigma-five.vercel.app)"
+    ]
+  }
+}
