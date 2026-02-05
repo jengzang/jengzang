@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 **HITSZ 电子信息专业学生** | 全栈开发者 | 方言爱好者
+🎓 **HITSZ 电子信息** | 全栈开发者 | 方言爱好者
 
 - 🔭 Currently studying at **Harbin Institute of Technology, Shenzhen (HITSZ)**
 - 🌱 Majoring in **Electronic Information Engineering**
@@ -205,7 +205,7 @@ BLOG-POST-LIST:END
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=jengzang.jengzang)
 
-**Thanks for visiting! 感谢访问！**
+**Thanks for visiting! **
 
 </div>
 
