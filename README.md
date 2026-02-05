@@ -50,13 +50,14 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jengzang&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://streak-stats.demolab.com/?user=jengzang&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jengzang&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=86400"/>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=jengzang&theme=radical&date_format=M%20j%5B%2C%20Y%5D"/>
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jengzang&layout=compact&theme=radical&langs_count=8"/>
-  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=jengzang&theme=radical&column=4&margin-w=15&margin-h=15"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jengzang&layout=compact&theme=radical&langs_count=8&cache_seconds=86400"/>
+  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=jengzang&theme=radical&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+</div>
 </div>
 
 ---
@@ -68,6 +69,7 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+<!--
 ### 🎵 Spotify Now Playing
 
 <div align="center">
@@ -76,8 +78,9 @@
 
 ### 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+BLOG-POST-LIST:START
+BLOG-POST-LIST:END
+-->
 
 ### 📊 Recent GitHub Activity
 
