@@ -1,0 +1,113 @@
+<div align="center">
+
+<!-- Animated Typing Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi+👋+I'm+jengzang+%7C+不羈;HITSZ+电子信息+%7C+Full+Stack+Developer;方言爱好者+%7C+Dialect+Enthusiast;Always+learning+new+things!" alt="Typing SVG" />
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+🎓 **HITSZ 电子信息专业学生** | 全栈开发者 | 方言爱好者
+
+- 🔭 Currently studying at **Harbin Institute of Technology, Shenzhen (HITSZ)**
+- 🌱 Majoring in **Electronic Information Engineering**
+- 💻 Full Stack Developer passionate about **Web Development** and **System Programming**
+- 🗣️ Dialect enthusiast - creator of **方音圖鑑** (Dialect Atlas)
+- 📝 Building my personal blog at [yzup.top](https://www.yzup.top/)
+- 🎯 Always exploring new technologies and frameworks
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+
+### Frontend
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### Tools & Platforms
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jengzang&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jengzang&theme=radical"/>
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jengzang&layout=compact&theme=radical&langs_count=8"/>
+  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=jengzang&theme=radical&column=4&margin-w=15&margin-h=15"/>
+</div>
+
+---
+
+## ⚡ Dynamic Content
+
+### 📈 Weekly Coding Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+### 🎵 Spotify Now Playing
+
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing"/>
+</div>
+
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+### 📊 Recent GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jengzang&theme=react-dark&hide_border=true&area=true" width="100%"/>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/jengzang/jengzang/output/github-snake-dark.svg" alt="Snake animation" />
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![知乎](https://img.shields.io/badge/-知乎-0084FF?style=for-the-badge&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/da-shu-18-11)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jengzang@outlook.com)
+[![Website](https://img.shields.io/badge/-方音圖鑑-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dialects.yzup.top/)
+[![Blog](https://img.shields.io/badge/-Blog-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://www.yzup.top/)
+
+</div>
+
+---
+
+<div align="center">
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=jengzang.jengzang)
+
+**Thanks for visiting! 感谢访问！**
+
+</div>
+
