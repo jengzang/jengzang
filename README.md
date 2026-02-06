@@ -88,13 +88,11 @@ Trophy (成就徽章):
 ### 📈 Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.02%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 250.5 kB Used in GitHub's Storage 
+> 📦 252.2 kB Used in GitHub's Storage 
  > 
 > 🏆 72 Contributions in the Year 2026
  > 
@@ -131,16 +129,25 @@ Sunday                   40 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr 29 mins        ██████████████████████░░░   89.09 % 
+Vue.js                   8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+Requirements.txt         1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  1 hr 29 mins        ██████████████████████░░░   88.94 % 
+WebStorm                 8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
+Unknown Editor           2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+dialects-build           58 mins             ███████████████░░░░░░░░░░   58.42 % 
+chars                    30 mins             ███████░░░░░░░░░░░░░░░░░░   29.99 % 
+frontend-js              8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
+fastapi                  2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 40 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -155,7 +162,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 05/02/2026 15:40:05 UTC
+ Last Updated on 06/02/2026 01:23:22 UTC
 <!--END_SECTION:waka-->
 
 <!--
