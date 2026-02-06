@@ -1,23 +1,23 @@
-name: Latest Blog Posts
+# name: Latest Blog Posts
 
-on:
-  schedule:
-    # Runs every 6 hours
-    - cron: '0 */6 * * *'
-  workflow_dispatch:
+# on:
+#   schedule:
+#     # Runs every 6 hours
+#     - cron: '0 */6 * * *'
+#   workflow_dispatch:
 
-jobs:
-  update-readme-with-blog:
-    name: Update README with latest blog posts
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v3
+# jobs:
+#   update-readme-with-blog:
+#     name: Update README with latest blog posts
+#     runs-on: ubuntu-latest
+#     steps:
+#       - name: Checkout
+#         uses: actions/checkout@v3
 
-      - name: Pull in blog posts
-        uses: gautamkrishnar/blog-post-workflow@v1
-        with:
-          comment_tag_name: "BLOG-POST-LIST"
-          feed_list: "https://www.yzup.top/rss.xml,https://www.yzup.top/feed.xml,https://www.yzup.top/atom.xml"
-          max_post_count: 5
-          template: "- [$title]($url) - $date"
+#       - name: Pull in blog posts
+#         uses: gautamkrishnar/blog-post-workflow@v1
+#         with:
+#           comment_tag_name: "BLOG-POST-LIST"
+#           feed_list: "https://www.yzup.top/rss.xml,https://www.yzup.top/feed.xml,https://www.yzup.top/atom.xml"
+#           max_post_count: 5
+#           template: "- [$title]($url) - $date"
