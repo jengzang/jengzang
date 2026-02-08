@@ -18,7 +18,7 @@
 - 🔭 Currently studying at **Harbin Institute of Technology, Shenzhen (HITSZ)**
 - 🌱 Majoring in **Electronic Information Engineering**
 - 💻 Full Stack Developer passionate about **Web Development** and **System Programming**
-- 🗣️ Dialect enthusiast - creator of **方音圖鑑**[dialects.yzup.top] (https://dialects.yzup.top)
+- 🗣️ Dialect enthusiast - creator of **方音图鑑**[dialects.yzup.top](https://dialects.yzup.top)
 - 📝 Building my personal blog at [yzup.top](https://www.yzup.top/)
 - 🎯 Always exploring new technologies and frameworks
 
