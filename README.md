@@ -128,25 +128,25 @@ Sunday                   499 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               13 hrs 24 mins      ███████░░░░░░░░░░░░░░░░░░   27.28 % 
-Python                   11 hrs 48 mins      ██████░░░░░░░░░░░░░░░░░░░   24.04 % 
-Vue                      9 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
-Go                       3 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
-Markdown                 3 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
+JavaScript               13 hrs 13 mins      ███████░░░░░░░░░░░░░░░░░░   29.88 % 
+Python                   8 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
+Vue                      7 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
+Go                       3 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+Markdown                 3 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
 
 🔥 Editors: 
-Claude Code              36 hrs 53 mins      ███████████████████░░░░░░   75.08 % 
-VS Code                  12 hrs 14 mins      ██████░░░░░░░░░░░░░░░░░░░   24.92 % 
+Claude Code              33 hrs 7 mins       ███████████████████░░░░░░   74.85 % 
+VS Code                  11 hrs 7 mins       ██████░░░░░░░░░░░░░░░░░░░   25.15 % 
 
 🐱‍💻 Projects: 
-MyData                   15 hrs 44 mins      ████████░░░░░░░░░░░░░░░░░   32.03 % 
-dialects-vue-frontend    14 hrs 55 mins      ████████░░░░░░░░░░░░░░░░░   30.38 % 
-villages-ML              7 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
-dialects-backend         4 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
-meeting                  3 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
+MyData                   15 hrs 44 mins      █████████░░░░░░░░░░░░░░░░   35.55 % 
+dialects-vue-frontend    13 hrs              ███████░░░░░░░░░░░░░░░░░░   29.40 % 
+villages-ML              7 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
+meeting                  3 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
+dialects-admin-frontend  3 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
 
 💻 Operating System: 
-Mac                      49 hrs 7 mins       █████████████████████████   100.00 % 
+Mac                      44 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -162,7 +162,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 02:01:51 UTC
+ Last Updated on 25/07/2026 02:01:04 UTC
 <!--END_SECTION:waka-->
 
 <!--
