@@ -87,6 +87,8 @@ Trophy (成就徽章):
 ### 📈 Weekly Coding Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-551%20hrs%2038%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.36%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -128,25 +130,25 @@ Sunday                   499 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               13 hrs 13 mins      ███████░░░░░░░░░░░░░░░░░░   29.88 % 
-Python                   8 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
-Vue                      7 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
-Go                       3 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
-Markdown                 3 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
+JavaScript               11 hrs 5 mins       ███████░░░░░░░░░░░░░░░░░░   28.27 % 
+Python                   8 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   22.67 % 
+Vue                      5 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+Go                       3 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
+Markdown                 3 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
 
 🔥 Editors: 
-Claude Code              33 hrs 7 mins       ███████████████████░░░░░░   74.85 % 
-VS Code                  11 hrs 7 mins       ██████░░░░░░░░░░░░░░░░░░░   25.15 % 
+Claude Code              27 hrs 59 mins      ██████████████████░░░░░░░   71.29 % 
+VS Code                  11 hrs 16 mins      ███████░░░░░░░░░░░░░░░░░░   28.71 % 
 
 🐱‍💻 Projects: 
-MyData                   15 hrs 44 mins      █████████░░░░░░░░░░░░░░░░   35.55 % 
-dialects-vue-frontend    13 hrs              ███████░░░░░░░░░░░░░░░░░░   29.40 % 
-villages-ML              7 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
-meeting                  3 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
-dialects-admin-frontend  3 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
+MyData                   16 hrs 1 min        ██████████░░░░░░░░░░░░░░░   40.83 % 
+villages-ML              7 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   19.98 % 
+dialects-vue-frontend    7 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
+meeting                  3 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
+dialects-admin-frontend  3 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
 
 💻 Operating System: 
-Mac                      44 hrs 15 mins      █████████████████████████   100.00 % 
+Mac                      39 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -162,7 +164,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 02:01:04 UTC
+ Last Updated on 26/07/2026 02:05:56 UTC
 <!--END_SECTION:waka-->
 
 <!--
