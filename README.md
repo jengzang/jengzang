@@ -132,48 +132,48 @@ Sunday                   562 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue                      12 hrs              █████████░░░░░░░░░░░░░░░░   36.86 % 
-JavaScript               7 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   22.74 % 
-Python                   7 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   22.38 % 
-Markdown                 2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
-JSON                     1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
+Vue                      12 hrs 10 mins      █████████░░░░░░░░░░░░░░░░   37.21 % 
+JavaScript               7 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   22.52 % 
+Python                   7 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   22.33 % 
+Markdown                 2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
+JSON                     1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
 
 🔥 Editors: 
-VS Code                  19 hrs 24 mins      ███████████████░░░░░░░░░░   59.58 % 
-Claude Code              13 hrs 10 mins      ██████████░░░░░░░░░░░░░░░   40.42 % 
+VS Code                  19 hrs 23 mins      ███████████████░░░░░░░░░░   59.31 % 
+Claude Code              13 hrs 18 mins      ██████████░░░░░░░░░░░░░░░   40.69 % 
 
 🐱‍💻 Projects: 
-dialects-vue-frontend    22 hrs 46 mins      █████████████████░░░░░░░░   69.91 % 
-dialects-backend         7 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
-dialects-admin-frontend  56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+dialects-vue-frontend    22 hrs 53 mins      ██████████████████░░░░░░░   70.00 % 
+dialects-backend         7 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   23.66 % 
+dialects-admin-frontend  56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
 villages-ML              36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-toponyms                 30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+toponyms                 30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 
 💻 Operating System: 
-Mac                      32 hrs 35 mins      █████████████████████████   100.00 % 
+Mac                      32 hrs 42 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 31 hrs 8 mins (95.57%)
+⏱ AI Coding Time: 31 hrs 13 mins (95.48%)
 
-✍️ 20,563 lines written by AI, 66 lines written by hand (99.68% AI-written)
+✍️ 20,542 lines written by AI, 66 lines written by hand (99.68% AI-written)
 
-🔤 1,777,971,760 Input Tokens, 6,889,121 Output Tokens
+🔤 1,776,992,125 Input Tokens, 6,888,670 Output Tokens
 
-💵 $2331.33 Estimated AI Cost This Week
+💵 $2328.24 Estimated AI Cost This Week
 
-🧠 52 AI Sessions, 529 AI Prompts
+🧠 52 AI Sessions, 525 AI Prompts
 
-GPT                      13,551 lines        ██████████████░░░░░░░░░░░   57.64 % 
-Sonnet                   9,960 lines         ███████████░░░░░░░░░░░░░░   42.36 % 
+GPT                      13,551 lines        ██████████████░░░░░░░░░░░   57.69 % 
+Sonnet                   9,939 lines         ███████████░░░░░░░░░░░░░░   42.31 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.68% of written lines came from AI
-📄 Detailed Prompter — average 1,108 characters per prompt
+📄 Detailed Prompter — average 1,115 characters per prompt
 🔁 Iterative Prompter — average 10 prompts per session
 🚀 High AI Trust — 2.5% of changed lines were hand-edited
 ```
@@ -191,7 +191,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/08/2026 01:52:24 UTC
+ Last Updated on 05/08/2026 01:53:19 UTC
 <!--END_SECTION:waka-->
 
 <!--
