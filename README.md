@@ -132,52 +132,52 @@ Sunday                   655 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue                      4 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   29.04 % 
-Other                    4 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   28.12 % 
-JavaScript               3 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   21.02 % 
-Markdown                 1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
-JSON                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
+Other                    4 hrs 18 mins       ██████████░░░░░░░░░░░░░░░   39.93 % 
+JavaScript               2 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   21.89 % 
+Vue                      1 hr 57 mins        █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
+Markdown                 48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
+Python                   27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
 
 🔥 Editors: 
-OpenClaw                 6 hrs 9 mins        ██████████░░░░░░░░░░░░░░░   39.28 % 
-Claude Code              4 hrs 49 mins       ████████░░░░░░░░░░░░░░░░░   30.76 % 
-Codex Vscode             3 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
-VS Code                  1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
+OpenClaw                 4 hrs 41 mins       ███████████░░░░░░░░░░░░░░   43.48 % 
+Codex Vscode             3 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   28.50 % 
+Claude Code              1 hr 48 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
+VS Code                  1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
 
 🐱‍💻 Projects: 
-dialects-vue-frontend    8 hrs 46 mins       ██████████████░░░░░░░░░░░   55.91 % 
-workspace                4 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   29.92 % 
-release                  51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
-Yubao-spider             40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
-dialects-backend         32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+dialects-vue-frontend    4 hrs 36 mins       ███████████░░░░░░░░░░░░░░   42.81 % 
+workspace                4 hrs 16 mins       ██████████░░░░░░░░░░░░░░░   39.69 % 
+release                  51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
+Yubao-spider             40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+dialects-backend         12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
 
 💻 Operating System: 
-Mac                      15 hrs 41 mins      █████████████████████████   100.00 % 
+Mac                      10 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 15 mins (97.18%)
+⏱ AI Coding Time: 10 hrs 28 mins (97.16%)
 
-✍️ 11,665 lines written by AI, 35 lines written by hand (99.7% AI-written)
+✍️ 8,717 lines written by AI, 16 lines written by hand (99.82% AI-written)
 
-🔤 9,314,882 Input Tokens, 1,481,534 Output Tokens
+🔤 8,158,893 Input Tokens, 875,599 Output Tokens
 
-💵 $174.95 Estimated AI Cost This Week
+💵 $145.95 Estimated AI Cost This Week
 
-🧠 43 AI Sessions, 538 AI Prompts
+🧠 35 AI Sessions, 402 AI Prompts
 
-GPT                      7,760 lines         ███████████████░░░░░░░░░░   59.37 % 
-Sonnet                   5,311 lines         ██████████░░░░░░░░░░░░░░░   40.63 % 
+GPT                      7,760 lines         ████████████████████░░░░░   78.93 % 
+Sonnet                   2,072 lines         █████░░░░░░░░░░░░░░░░░░░░   21.07 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.7% of written lines came from AI
-📄 Detailed Prompter — average 616 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
-🚀 High AI Trust — 1.26% of changed lines were hand-edited
+🤖 AI-Driven — 99.82% of written lines came from AI
+📄 Detailed Prompter — average 525 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🚀 High AI Trust — 1.5% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -193,7 +193,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/08/2026 00:55:29 UTC
+ Last Updated on 24/08/2026 00:53:13 UTC
 <!--END_SECTION:waka-->
 
 <!--
