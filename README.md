@@ -105,8 +105,33 @@
 ## Coding Activity
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-691%20hrs%2043%20mins-blue?style=flat)
 
-WakaTime stats update automatically through GitHub Actions.
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Other                    7 hrs 49 mins       █████████░░░░░░░░░░░░░░░░   34.61 % 
+JavaScript               6 hrs 3 mins        ███████░░░░░░░░░░░░░░░░░░   26.85 % 
+Vue                      4 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
+Python                   1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+Markdown                 1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+
+🔥 Editors: 
+OpenClaw                 10 hrs 50 mins      ████████████░░░░░░░░░░░░░   48.01 % 
+Codex Vscode             10 hrs 40 mins      ████████████░░░░░░░░░░░░░   47.28 % 
+VS Code                  1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+
+🐱‍💻 Projects: 
+dialects-vue-frontend    12 hrs 12 mins      ██████████████░░░░░░░░░░░   54.00 % 
+workspace                7 hrs 36 mins       ████████░░░░░░░░░░░░░░░░░   33.67 % 
+Resnet34                 1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
+dialects-backend         29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+dialects-admin-frontend  25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+```
+
+
+ Last Updated on 02/09/2026 13:54:59 UTC
 <!--END_SECTION:waka-->
 
 ## Contributions
