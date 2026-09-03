@@ -5,6 +5,7 @@
 <p>
   <strong>AI MPhil Student @ CUHK-Shenzhen</strong> ·
   <strong>B.Eng. Electronic Information @ HITSZ</strong> ·
+  <strong>AI Researcher</strong> ·
   <strong>Full-stack Builder</strong>
 </p>
 
@@ -19,9 +20,9 @@
   <a href="https://dialects.yzup.top/">
     <img src="https://img.shields.io/badge/Project-%E6%96%B9%E9%9F%B3%E5%9C%96%E9%91%91-4285F4?style=flat-square&logo=google-chrome&logoColor=white" alt="方音圖鑑" />
   </a>
-  <a href="https://www.yzup.top/">
+  <!-- <a href="https://www.yzup.top/">
     <img src="https://img.shields.io/badge/Blog-yzup.top-FFA500?style=flat-square&logo=rss&logoColor=white" alt="Blog" />
-  </a>
+  </a> -->
   <a href="https://www.zhihu.com/people/da-shu-18-11">
     <img src="https://img.shields.io/badge/Zhihu-%E7%9F%A5%E4%B9%8E-0084FF?style=flat-square&logo=zhihu&logoColor=white" alt="Zhihu" />
   </a>
@@ -40,11 +41,13 @@
 
 ## Featured Work
 
-| Project             | Focus                                                           | Links                                                        |
-| ------------------- | --------------------------------------------------------------- | ------------------------------------------------------------ |
-| **方音圖鑑**        | Dialect data, language exploration, full-stack product building | [Website](https://dialects.yzup.top/)                        |
-| **Personal Blog**   | Notes on engineering, learning, and research                    | [yzup.top](https://www.yzup.top/)                            |
-| **GitHub Projects** | Research prototypes, coursework, and engineering experiments    | [Repositories](https://github.com/jengzang?tab=repositories) |
+| Project                       | Focus                                                                                                           | Links                                                              |
+| ----------------------------- | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| **方音圖鑑**                      | Full-stack dialect exploration website with interactive data visualization and language tools                   | [Website](https://dialects.yzup.top/)                              |
+| **Computational Linguistics** | Dialect evolution analysis, linguistic phylogenetic trees, and computational analysis of language relationships | Coming soon                                                        |
+| **GIS & Geospatial Mapping**  | Administrative boundary maps, dialect distribution maps, and geospatial data visualization                      | [Zhihu Column](https://www.zhihu.com/column/c_1828786924149686272) |
+| **AI Speech Research**        | Speaker recognition, speaker verification, speech separation, and deep learning for speech processing           | Coming soon                                                        |
+
 
 ## Education
 
