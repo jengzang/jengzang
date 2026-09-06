@@ -108,34 +108,34 @@
 ## Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-702%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-702%20hrs%2021%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                    7 hrs 7 mins        ████████░░░░░░░░░░░░░░░░░   30.71 % 
-JavaScript               5 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   21.71 % 
-Vue                      4 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
-Python                   2 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
-JSON                     1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
+Other                    6 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   30.95 % 
+JavaScript               4 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   21.00 % 
+Python                   3 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
+Vue                      2 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+JSON                     1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
 
 🔥 Editors: 
-OpenClaw                 9 hrs 29 mins       ██████████░░░░░░░░░░░░░░░   40.93 % 
-Codex Vscode             7 hrs 44 mins       ████████░░░░░░░░░░░░░░░░░   33.38 % 
-VS Code                  4 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
-Claude Code              1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+OpenClaw                 8 hrs 52 mins       ███████████░░░░░░░░░░░░░░   44.61 % 
+Codex Vscode             5 hrs 27 mins       ███████░░░░░░░░░░░░░░░░░░   27.46 % 
+VS Code                  4 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   20.70 % 
+Claude Code              1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
 
 🐱‍💻 Projects: 
-dialects-vue-frontend    11 hrs 4 mins       ████████████░░░░░░░░░░░░░   47.74 % 
-workspace                7 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   30.65 % 
-Resnet34                 3 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
-dialects-backend         39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
-jengzang                 36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+dialects-vue-frontend    8 hrs 25 mins       ███████████░░░░░░░░░░░░░░   42.42 % 
+workspace                6 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   30.88 % 
+Resnet34                 3 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
+Yubao-spider             58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+jengzang                 36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
 ```
 
 
- Last Updated on 05/09/2026 02:19:10 UTC
+ Last Updated on 06/09/2026 02:15:09 UTC
 <!--END_SECTION:waka-->
 
 ## Contributions
