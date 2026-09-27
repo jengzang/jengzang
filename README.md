@@ -114,28 +114,28 @@
 
 ```text
 💬 Programming Languages: 
-Other                    11 hrs 24 mins      ███████████░░░░░░░░░░░░░░   44.81 % 
-Python                   5 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   23.13 % 
-Markdown                 2 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
-Vue                      1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
-JavaScript               57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+Other                    9 hrs 24 mins       ████████████░░░░░░░░░░░░░   46.81 % 
+Python                   5 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   25.58 % 
+Markdown                 2 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+YAML                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+CSV                      42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
 
 🔥 Editors: 
-Codex Vscode             11 hrs 20 mins      ███████████░░░░░░░░░░░░░░   44.57 % 
-OpenClaw                 9 hrs 23 mins       █████████░░░░░░░░░░░░░░░░   36.92 % 
-Claude Code              2 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
-VS Code                  2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
+Codex Vscode             9 hrs 29 mins       ████████████░░░░░░░░░░░░░   47.18 % 
+OpenClaw                 7 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   36.82 % 
+Claude Code              1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
+VS Code                  1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
 
 🐱‍💻 Projects: 
-workspace                9 hrs 23 mins       █████████░░░░░░░░░░░░░░░░   36.92 % 
-dialects-build           5 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   22.83 % 
-词表                       2 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
-Resnet34                 2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
-dialects-vue-frontend    2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
+workspace                7 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   36.82 % 
+dialects-build           5 hrs 48 mins       ███████░░░░░░░░░░░░░░░░░░   28.89 % 
+Resnet34                 2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
+词表                       1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
+dialects-backend         1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
 ```
 
 
- Last Updated on 26/09/2026 02:52:50 UTC
+ Last Updated on 27/09/2026 02:54:36 UTC
 <!--END_SECTION:waka-->
 
 ## Contributions
