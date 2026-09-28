@@ -114,28 +114,28 @@
 
 ```text
 💬 Programming Languages: 
-Other                    9 hrs 24 mins       ████████████░░░░░░░░░░░░░   46.81 % 
-Python                   5 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   25.58 % 
-Markdown                 2 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
-YAML                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
-CSV                      42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+Other                    7 hrs 44 mins       ████████████░░░░░░░░░░░░░   48.45 % 
+Python                   4 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   28.07 % 
+Markdown                 2 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
+YAML                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+Git Config               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
 
 🔥 Editors: 
-Codex Vscode             9 hrs 29 mins       ████████████░░░░░░░░░░░░░   47.18 % 
-OpenClaw                 7 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   36.82 % 
-Claude Code              1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
-VS Code                  1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
+Codex Vscode             9 hrs 8 mins        ██████████████░░░░░░░░░░░   57.22 % 
+OpenClaw                 5 hrs 43 mins       █████████░░░░░░░░░░░░░░░░   35.88 % 
+VS Code                  34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Claude Code              31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 
 🐱‍💻 Projects: 
-workspace                7 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   36.82 % 
-dialects-build           5 hrs 48 mins       ███████░░░░░░░░░░░░░░░░░░   28.89 % 
-Resnet34                 2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
-词表                       1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
-dialects-backend         1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
+dialects-build           5 hrs 48 mins       █████████░░░░░░░░░░░░░░░░   36.36 % 
+workspace                5 hrs 43 mins       █████████░░░░░░░░░░░░░░░░   35.88 % 
+Resnet34                 2 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
+词表                       51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+Redim                    50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
 ```
 
 
- Last Updated on 27/09/2026 02:54:36 UTC
+ Last Updated on 28/09/2026 02:54:32 UTC
 <!--END_SECTION:waka-->
 
 ## Contributions
