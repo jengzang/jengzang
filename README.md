@@ -114,28 +114,28 @@
 
 ```text
 💬 Programming Languages: 
-Other                    4 hrs 36 mins       ████████░░░░░░░░░░░░░░░░░   30.35 % 
-Vue                      2 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
-Python                   2 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
-JavaScript               2 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
-Markdown                 1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
+Other                    2 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   25.64 % 
+Vue                      2 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   24.37 % 
+JavaScript               1 hr 39 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
+Python                   1 hr 28 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
+SCSS                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
 
 🔥 Editors: 
-Codex Vscode             7 hrs 36 mins       █████████████░░░░░░░░░░░░   50.12 % 
-OpenClaw                 4 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   27.91 % 
-VS Code                  2 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
-Claude Code              1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
+Codex Vscode             4 hrs               ███████████░░░░░░░░░░░░░░   43.01 % 
+OpenClaw                 2 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   24.26 % 
+VS Code                  1 hr 56 mins        █████░░░░░░░░░░░░░░░░░░░░   20.82 % 
+Claude Code              1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
 
 🐱‍💻 Projects: 
-dialects-vue-frontend    6 hrs 32 mins       ███████████░░░░░░░░░░░░░░   43.11 % 
-workspace                4 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   27.91 % 
-dialects-backend         1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
-词表                       1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
-dialects-build           1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
+dialects-vue-frontend    4 hrs 6 mins        ███████████░░░░░░░░░░░░░░   44.23 % 
+workspace                2 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   24.26 % 
+词表                       1 hr 33 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
+dialects-backend         1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
+jengzang                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
 ```
 
 
- Last Updated on 06/10/2026 04:11:04 UTC
+ Last Updated on 07/10/2026 03:37:47 UTC
 <!--END_SECTION:waka-->
 
 ## Contributions
