@@ -114,25 +114,27 @@
 
 ```text
 💬 Programming Languages: 
-Other                    18 mins             ██████████████░░░░░░░░░░░   57.02 % 
-Vue                      9 mins              ███████░░░░░░░░░░░░░░░░░░   28.98 % 
-JavaScript               3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
-SCSS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Other                    7 hrs 26 mins       █████████████████░░░░░░░░   67.72 % 
+Markdown                 1 hr 55 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
+YAML                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+Python                   32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+Go                       14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
 
 🔥 Editors: 
-OpenClaw                 18 mins             ██████████████░░░░░░░░░░░   57.06 % 
-Claude Code              8 mins              ███████░░░░░░░░░░░░░░░░░░   27.21 % 
-VS Code                  2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
-Codex Vscode             2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
+OpenClaw                 7 hrs 19 mins       █████████████████░░░░░░░░   66.58 % 
+Codex Vscode             3 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   30.85 % 
+VS Code                  16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
 
 🐱‍💻 Projects: 
-workspace                18 mins             ██████████████░░░░░░░░░░░   57.06 % 
-dialects-vue-frontend    13 mins             ███████████░░░░░░░░░░░░░░   42.94 % 
+workspace                7 hrs 19 mins       █████████████████░░░░░░░░   66.58 % 
+dialects-backend         1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
+dialects-vue-frontend    50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+Redim                    38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+MyData                   20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
 ```
 
 
- Last Updated on 08/10/2026 03:52:03 UTC
+ Last Updated on 09/10/2026 03:57:14 UTC
 <!--END_SECTION:waka-->
 
 ## Contributions
