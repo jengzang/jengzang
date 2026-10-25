@@ -108,34 +108,34 @@
 ## Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-842%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-848%20hrs%2020%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                    15 hrs 3 mins       ███████░░░░░░░░░░░░░░░░░░   26.65 % 
-JavaScript               13 hrs 51 mins      ██████░░░░░░░░░░░░░░░░░░░   24.52 % 
-Python                   10 hrs 56 mins      █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
-Vue                      8 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
-TSV                      2 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+JavaScript               16 hrs 23 mins      ████████░░░░░░░░░░░░░░░░░   30.93 % 
+Other                    14 hrs 55 mins      ███████░░░░░░░░░░░░░░░░░░   28.17 % 
+Vue                      9 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
+Python                   5 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
+Markdown                 1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
 
 🔥 Editors: 
-VS Code                  31 hrs 14 mins      ██████████████░░░░░░░░░░░   55.30 % 
-Codex Vscode             19 hrs 14 mins      █████████░░░░░░░░░░░░░░░░   34.04 % 
-OpenClaw                 4 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
-Claude Code              1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+VS Code                  34 hrs 56 mins      ████████████████░░░░░░░░░   65.94 % 
+Codex Vscode             12 hrs 22 mins      ██████░░░░░░░░░░░░░░░░░░░   23.35 % 
+OpenClaw                 3 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
+Claude Code              1 hr 50 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
 
 🐱‍💻 Projects: 
-词表                       24 hrs 18 mins      ███████████░░░░░░░░░░░░░░   43.01 % 
-dialects-vue-frontend    18 hrs 39 mins      ████████░░░░░░░░░░░░░░░░░   33.02 % 
-workspace                11 hrs 34 mins      █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
-dialects-backend         48 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
-sub2api                  21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+dialects-vue-frontend    19 hrs 59 mins      █████████░░░░░░░░░░░░░░░░   37.74 % 
+词表                       18 hrs 12 mins      █████████░░░░░░░░░░░░░░░░   34.36 % 
+workspace                12 hrs 6 mins       ██████░░░░░░░░░░░░░░░░░░░   22.85 % 
+dialects-backend         1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+sub2api                  21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 ```
 
 
- Last Updated on 24/10/2026 02:46:10 UTC
+ Last Updated on 25/10/2026 02:36:42 UTC
 <!--END_SECTION:waka-->
 
 ## Contributions
